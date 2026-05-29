@@ -1,0 +1,650 @@
+[
+  {
+    "slug": "gangneung-ocean-suite-the-city",
+    "title": "강릉시 주문진 오션 스위트 더 시티 임대주택",
+    "category": "공동주택",
+    "location": "강원 강릉시 주문진",
+    "use": "공동주택(아파트)",
+    "area": "34,283.3880㎡ (10,370.72평)",
+    "scale": "지하2층 ~ 지상29층",
+    "client": "유한회사 우리반석",
+    "contractor": "",
+    "units": "",
+    "pages": [
+      13,
+      14
+    ],
+    "featured": true,
+    "image": "assets/images/projects/gangneung-ocean-suite-the-city-p13-1.jpg",
+    "gallery": [
+      "assets/images/projects/gangneung-ocean-suite-the-city-p13-1.jpg",
+      "assets/images/projects/gangneung-ocean-suite-the-city-p14-1.jpg"
+    ]
+  },
+  {
+    "slug": "seonghwan-logistics-center",
+    "title": "성환읍 성월리 38-4 창고시설",
+    "category": "물류·창고",
+    "location": "천안 성환읍 성월리",
+    "use": "창고시설(저온 및 상온창고)",
+    "area": "101,666.95㎡ (30,754.11평)",
+    "scale": "지하2층 ~ 지상3층",
+    "client": "이연산업공업㈜ 외 2인",
+    "contractor": "",
+    "units": "",
+    "pages": [
+      15,
+      16
+    ],
+    "featured": true,
+    "image": "assets/images/projects/seonghwan-logistics-center-p15-1.jpg",
+    "gallery": [
+      "assets/images/projects/seonghwan-logistics-center-p15-1.jpg",
+      "assets/images/projects/seonghwan-logistics-center-p16-1.jpg"
+    ]
+  },
+  {
+    "slug": "namyangju-officetel",
+    "title": "경기도 남양주시 00 업무시설(오피스텔)",
+    "category": "업무·오피스텔",
+    "location": "경기도 남양주시",
+    "use": "근린생활시설, 업무시설(오피스텔)",
+    "area": "4,988.6㎡ (1,509.04평)",
+    "scale": "지하2층 ~ 지상11층",
+    "client": "㈜네오씨앤아이",
+    "contractor": "㈜선평건설(예정)",
+    "units": "오피스텔 56실",
+    "pages": [
+      17,
+      18
+    ],
+    "featured": false,
+    "image": "assets/images/projects/namyangju-officetel-p17-1.jpg",
+    "gallery": [
+      "assets/images/projects/namyangju-officetel-p17-1.jpg",
+      "assets/images/projects/namyangju-officetel-p18-1.jpg"
+    ]
+  },
+  {
+    "slug": "suncheon-deokam-residential-complex",
+    "title": "전남 순천시 덕암동 00 주거복합",
+    "category": "주거복합",
+    "location": "전남 순천시 덕암동",
+    "use": "공동주택",
+    "area": "50,065.00㎡ (15,144.59평)",
+    "scale": "지하5층 ~ 지상41층",
+    "client": "㈜신해주택개발",
+    "contractor": "㈜한양건설(수자인, 예정)",
+    "units": "296세대",
+    "pages": [
+      19
+    ],
+    "featured": true,
+    "image": "assets/images/projects/suncheon-deokam-residential-complex-p19-1.jpg",
+    "gallery": [
+      "assets/images/projects/suncheon-deokam-residential-complex-p19-1.jpg"
+    ]
+  },
+  {
+    "slug": "uijeongbu-residential-complex",
+    "title": "의정부동 주거복합",
+    "category": "주거복합",
+    "location": "경기도 의정부시 의정부동",
+    "use": "공동주택 / 상업시설 / 오피스텔",
+    "area": "52,586.53㎡ (15,907.35평)",
+    "scale": "지하3층 ~ 지상47층",
+    "client": "㈜상월 D&C",
+    "contractor": "",
+    "units": "공동주택 296세대",
+    "pages": [
+      20
+    ],
+    "featured": true,
+    "image": "assets/images/projects/uijeongbu-residential-complex-p20-1.jpg",
+    "gallery": [
+      "assets/images/projects/uijeongbu-residential-complex-p20-1.jpg"
+    ]
+  },
+  {
+    "slug": "seongsu-riverpheus",
+    "title": "성수 리버페우스",
+    "category": "공동주택",
+    "location": "서울 성동구 성수동2가",
+    "use": "공동주택",
+    "area": "74,921.34㎡ (22,663.60평)",
+    "scale": "지하2층 ~ 지상11-26층",
+    "client": "㈜한솔 모리스개발",
+    "contractor": "",
+    "units": "525세대",
+    "pages": [
+      21,
+      22
+    ],
+    "featured": true,
+    "image": "assets/images/projects/seongsu-riverpheus-p21-1.jpg",
+    "gallery": [
+      "assets/images/projects/seongsu-riverpheus-p21-1.jpg",
+      "assets/images/projects/seongsu-riverpheus-p22-1.jpg"
+    ]
+  },
+  {
+    "slug": "hanam-deokpung-yangwoo",
+    "title": "하남 덕풍동 양우 내안에 아파트",
+    "category": "공동주택",
+    "location": "경기 하남시 덕풍동",
+    "use": "공동주택",
+    "area": "133,347.79㎡ (40,337.71평)",
+    "scale": "지하2층 ~ 지상7-23층",
+    "client": "㈜한솔 모리스개발",
+    "contractor": "㈜양우건설",
+    "units": "1,005세대",
+    "pages": [
+      23,
+      24,
+      25,
+      26
+    ],
+    "featured": true,
+    "image": "assets/images/projects/hanam-deokpung-yangwoo-p23-1.jpg",
+    "gallery": [
+      "assets/images/projects/hanam-deokpung-yangwoo-p23-1.jpg",
+      "assets/images/projects/hanam-deokpung-yangwoo-p24-1.jpg",
+      "assets/images/projects/hanam-deokpung-yangwoo-p25-1.jpg",
+      "assets/images/projects/hanam-deokpung-yangwoo-p26-1.jpg"
+    ]
+  },
+  {
+    "slug": "yeongcheon-yangwoo",
+    "title": "영천 양우 내안에 아파트",
+    "category": "공동주택",
+    "location": "경북 영천시 금노동",
+    "use": "공동주택",
+    "area": "61,303.88㎡ (18,544.34평)",
+    "scale": "지하1층 ~ 지상15-28층",
+    "client": "㈜코리아하우징",
+    "contractor": "㈜양우건설",
+    "units": "499세대",
+    "pages": [
+      27,
+      28,
+      29
+    ],
+    "featured": false,
+    "image": "assets/images/projects/yeongcheon-yangwoo-p27-1.jpg",
+    "gallery": [
+      "assets/images/projects/yeongcheon-yangwoo-p27-1.jpg",
+      "assets/images/projects/yeongcheon-yangwoo-p28-1.jpg",
+      "assets/images/projects/yeongcheon-yangwoo-p29-1.jpg"
+    ]
+  },
+  {
+    "slug": "sejong-emco-town",
+    "title": "세종시 엠코타운 기본계획",
+    "category": "공동주택·마스터플랜",
+    "location": "세종시 1-3생활권 M6 블럭",
+    "use": "공동주택",
+    "area": "242,566.02㎡ (73,375.89평)",
+    "scale": "지하1층 ~ 지상15-28층",
+    "client": "㈜미래와가치",
+    "contractor": "㈜현대엠코",
+    "units": "1,940세대",
+    "pages": [
+      30,
+      31,
+      32
+    ],
+    "featured": true,
+    "image": "assets/images/projects/sejong-emco-town-p30-1.jpg",
+    "gallery": [
+      "assets/images/projects/sejong-emco-town-p30-1.jpg",
+      "assets/images/projects/sejong-emco-town-p31-1.jpg",
+      "assets/images/projects/sejong-emco-town-p32-1.jpg"
+    ]
+  },
+  {
+    "slug": "ttukseom-block-1-mixed-use",
+    "title": "뚝섬1블럭 주상복합",
+    "category": "주거복합",
+    "location": "서울 성동구 성수동1가",
+    "use": "판매·문화집회시설·공동주택",
+    "area": "170,841.46㎡ (51,679.30평)",
+    "scale": "지하7층 ~ 지상45층",
+    "client": "인피니테크",
+    "contractor": "한화건설",
+    "units": "230세대",
+    "pages": [
+      33,
+      34
+    ],
+    "featured": true,
+    "image": "assets/images/projects/ttukseom-block-1-mixed-use-p33-1.jpg",
+    "gallery": [
+      "assets/images/projects/ttukseom-block-1-mixed-use-p33-1.jpg",
+      "assets/images/projects/ttukseom-block-1-mixed-use-p34-1.jpg"
+    ]
+  },
+  {
+    "slug": "mullae-sk-leaders-view",
+    "title": "영등포 문래동 SK 리더스 뷰",
+    "category": "업무·복합시설",
+    "location": "서울 영등포구 문래동",
+    "use": "업무시설, 문화집회 및 판매시설, 운동시설, 공공업무시설, 근린생활시설",
+    "area": "99,954.98㎡ (30,236.24평)",
+    "scale": "지하3층 ~ 지상40층",
+    "client": "인피니테크",
+    "contractor": "SK건설",
+    "units": "",
+    "pages": [
+      35
+    ],
+    "featured": false,
+    "image": "assets/images/projects/mullae-sk-leaders-view-p35-1.jpg",
+    "gallery": [
+      "assets/images/projects/mullae-sk-leaders-view-p35-1.jpg"
+    ]
+  },
+  {
+    "slug": "mullae-byucksan-megatrium",
+    "title": "문래동 벽산 메가트리움",
+    "category": "업무·복합시설",
+    "location": "서울 영등포구 문래동",
+    "use": "판매시설, 운동시설, 문화집회시설, 업무시설",
+    "area": "68,613.97㎡ (20,755.63평)",
+    "scale": "지하2층 ~ 지상30층(5개동)",
+    "client": "네오테크 하우징",
+    "contractor": "벽산건설",
+    "units": "",
+    "pages": [
+      36
+    ],
+    "featured": false,
+    "image": "assets/images/projects/mullae-byucksan-megatrium-p36-1.jpg",
+    "gallery": [
+      "assets/images/projects/mullae-byucksan-megatrium-p36-1.jpg"
+    ]
+  },
+  {
+    "slug": "daejeon-oryu-mixed-use",
+    "title": "대전 오류동 주상복합 신축공사",
+    "category": "주거복합",
+    "location": "대전광역시 오류동",
+    "use": "근린생활시설, 공동주택",
+    "area": "68,657.46㎡ (20,768.79평)",
+    "scale": "지하6층 ~ 지상40층",
+    "client": "인피니테크",
+    "contractor": "금광건설",
+    "units": "207세대",
+    "pages": [
+      37
+    ],
+    "featured": false,
+    "image": "assets/images/projects/daejeon-oryu-mixed-use-p37-1.jpg",
+    "gallery": [
+      "assets/images/projects/daejeon-oryu-mixed-use-p37-1.jpg"
+    ]
+  },
+  {
+    "slug": "gaepo-tourist-hotel",
+    "title": "개포동 00 관광호텔",
+    "category": "호텔·숙박",
+    "location": "서울 강남구 개포동",
+    "use": "숙박시설",
+    "area": "2,268.75평 / 객실 88실",
+    "scale": "지하4층 / 지상8층",
+    "client": "",
+    "contractor": "",
+    "units": "88실",
+    "pages": [
+      38
+    ],
+    "featured": false,
+    "image": "assets/images/projects/gaepo-tourist-hotel-p38-1.jpg",
+    "gallery": [
+      "assets/images/projects/gaepo-tourist-hotel-p38-1.jpg"
+    ]
+  },
+  {
+    "slug": "seongnam-dongbu-mixed-use",
+    "title": "성남 동부주택 주상복합 1차",
+    "category": "주거복합",
+    "location": "성남시 성남동",
+    "use": "공동주택 / 상업시설 / 근린생활시설",
+    "area": "1,600평",
+    "scale": "지하3층 / 지상15층",
+    "client": "",
+    "contractor": "",
+    "units": "",
+    "pages": [
+      39
+    ],
+    "featured": false,
+    "image": "assets/images/projects/seongnam-dongbu-mixed-use-p39-1.jpg",
+    "gallery": [
+      "assets/images/projects/seongnam-dongbu-mixed-use-p39-1.jpg"
+    ]
+  },
+  {
+    "slug": "jamsil-apple-tower",
+    "title": "잠실 애플타워",
+    "category": "업무시설",
+    "location": "서울 송파구 잠실동",
+    "use": "업무시설, 근린생활시설",
+    "area": "15,674.39㎡ (4,741.48평)",
+    "scale": "지하6층 ~ 지상17층",
+    "client": "금창창업투자㈜",
+    "contractor": "포스코건설㈜",
+    "units": "",
+    "pages": [
+      40,
+      42
+    ],
+    "featured": false,
+    "image": "assets/images/projects/jamsil-apple-tower-p40-1.jpg",
+    "gallery": [
+      "assets/images/projects/jamsil-apple-tower-p40-1.jpg",
+      "assets/images/projects/jamsil-apple-tower-p42-1.jpg"
+    ]
+  },
+  {
+    "slug": "shenyang-sr-apartment",
+    "title": "중국 심양 S.R 공동주택",
+    "category": "해외·공동주택",
+    "location": "중국 심양시 훈남 신구",
+    "use": "공동주택, 업무시설",
+    "area": "665,528.64㎡ (201,322.41평)",
+    "scale": "지하1층 ~ 지상30층",
+    "client": "SR CHINA",
+    "contractor": "SR CHINA",
+    "units": "아파트 3,928세대",
+    "pages": [
+      41
+    ],
+    "featured": true,
+    "image": "assets/images/projects/shenyang-sr-apartment-p41-1.jpg",
+    "gallery": [
+      "assets/images/projects/shenyang-sr-apartment-p41-1.jpg"
+    ]
+  },
+  {
+    "slug": "seocho-daewoo-eloz-county",
+    "title": "서초동 대우 엘로즈 카운티",
+    "category": "공동주택",
+    "location": "서울 서초구 서초동",
+    "use": "공동주택",
+    "area": "21,602.95㎡ (6,534.86평)",
+    "scale": "지하2층 ~ 지상15층",
+    "client": "주은 부동산 신탁㈜",
+    "contractor": "㈜대우건설",
+    "units": "73세대",
+    "pages": [
+      43
+    ],
+    "featured": false,
+    "image": "assets/images/projects/seocho-daewoo-eloz-county-p43-1.jpg",
+    "gallery": [
+      "assets/images/projects/seocho-daewoo-eloz-county-p43-1.jpg"
+    ]
+  },
+  {
+    "slug": "dogok-kyeryong-richeville",
+    "title": "도곡동 계룡 리슈빌",
+    "category": "공동주택",
+    "location": "서울 강남구 도곡동",
+    "use": "공동주택",
+    "area": "23,145.57㎡ (7,001.50평)",
+    "scale": "지하2층 ~ 지상20층",
+    "client": "대림동우 개발주식회사",
+    "contractor": "계룡건설㈜",
+    "units": "52세대",
+    "pages": [
+      44
+    ],
+    "featured": false,
+    "image": "assets/images/projects/dogok-kyeryong-richeville-p44-1.jpg",
+    "gallery": [
+      "assets/images/projects/dogok-kyeryong-richeville-p44-1.jpg"
+    ]
+  },
+  {
+    "slug": "seocho-lotte-castle-84",
+    "title": "서초동 롯데 캐슬 84",
+    "category": "공동주택",
+    "location": "서울 서초구 서초동",
+    "use": "공동주택",
+    "area": "29,554.07㎡ (8,940.66평)",
+    "scale": "지하2층 ~ 지상16층",
+    "client": "롯데건설㈜",
+    "contractor": "롯데건설㈜",
+    "units": "84세대",
+    "pages": [
+      45
+    ],
+    "featured": false,
+    "image": "assets/images/projects/seocho-lotte-castle-84-p45-1.jpg",
+    "gallery": [
+      "assets/images/projects/seocho-lotte-castle-84-p45-1.jpg"
+    ]
+  },
+  {
+    "slug": "dogok-poscourt",
+    "title": "도곡동 포스코트",
+    "category": "공동주택",
+    "location": "서울 강남구 도곡동",
+    "use": "공동주택",
+    "area": "23,542.53㎡ (7,121.58평)",
+    "scale": "지하2층 ~ 지상17층",
+    "client": "포스코건설㈜",
+    "contractor": "포스코건설㈜",
+    "units": "64세대",
+    "pages": [
+      46
+    ],
+    "featured": false,
+    "image": "assets/images/projects/dogok-poscourt-p46-1.jpg",
+    "gallery": [
+      "assets/images/projects/dogok-poscourt-p46-1.jpg"
+    ]
+  },
+  {
+    "slug": "samsung-suji-chereville",
+    "title": "삼성 수지 쉐르빌 1차·2차",
+    "category": "공동주택",
+    "location": "경기도 용인시 수지읍",
+    "use": "공동주택(연립주택)",
+    "area": "34,310.13㎡ (10,378.76평)",
+    "scale": "지하1층 ~ 지상4층",
+    "client": "㈜이티엔",
+    "contractor": "삼성중공업",
+    "units": "166세대",
+    "pages": [
+      47,
+      48
+    ],
+    "featured": false,
+    "image": "assets/images/projects/samsung-suji-chereville-p47-1.jpg",
+    "gallery": [
+      "assets/images/projects/samsung-suji-chereville-p47-1.jpg",
+      "assets/images/projects/samsung-suji-chereville-p48-1.jpg"
+    ]
+  },
+  {
+    "slug": "cheongdam-daewoo-members-county-3-4-townhouse",
+    "title": "청담동 대우 멤버스 카운티 3차·4차",
+    "category": "고급주거",
+    "location": "서울 강남구 청담동",
+    "use": "공동주택(연립주택)",
+    "area": "4,566.06㎡ (1,381.22평)",
+    "scale": "지하1층 ~ 지상4층",
+    "client": "미래 D&C",
+    "contractor": "㈜대우건설",
+    "units": "19세대",
+    "pages": [
+      49
+    ],
+    "featured": false,
+    "image": "assets/images/projects/cheongdam-daewoo-members-county-3-4-townhouse-p49-1.jpg",
+    "gallery": [
+      "assets/images/projects/cheongdam-daewoo-members-county-3-4-townhouse-p49-1.jpg"
+    ]
+  },
+  {
+    "slug": "cheongdam-daewoo-members-county-3-4-apartment",
+    "title": "청담동 대우 멤버스 카운티 3차·4차 APT",
+    "category": "고급주거",
+    "location": "서울 강남구 청담동",
+    "use": "공동주택(아파트)",
+    "area": "4,605.14㎡ (1,402.13평)",
+    "scale": "지하1층 ~ 지상4층",
+    "client": "미래 D&C",
+    "contractor": "㈜대우건설",
+    "units": "19세대",
+    "pages": [
+      50
+    ],
+    "featured": false,
+    "image": "assets/images/projects/cheongdam-daewoo-members-county-3-4-apartment-p50-1.jpg",
+    "gallery": [
+      "assets/images/projects/cheongdam-daewoo-members-county-3-4-apartment-p50-1.jpg"
+    ]
+  },
+  {
+    "slug": "bangbae-daewoo-royal-villat-1",
+    "title": "방배 대우 로얄 빌라트 1차",
+    "category": "고급주거",
+    "location": "서울 서초구 방배동",
+    "use": "공동주택",
+    "area": "6,690.76㎡ (2,023.95평)",
+    "scale": "지하1층 ~ 지상10층",
+    "client": "문화주택㈜",
+    "contractor": "㈜대우건설",
+    "units": "19세대",
+    "pages": [
+      51
+    ],
+    "featured": false,
+    "image": "assets/images/projects/bangbae-daewoo-royal-villat-1-p51-1.jpg",
+    "gallery": [
+      "assets/images/projects/bangbae-daewoo-royal-villat-1-p51-1.jpg"
+    ]
+  },
+  {
+    "slug": "bangbae-daewoo-royal-villat-2",
+    "title": "방배 대우 로얄 빌라트 2차",
+    "category": "고급주거",
+    "location": "서울 서초구 방배동",
+    "use": "공동주택",
+    "area": "4,605.14㎡ (1,402.13평)",
+    "scale": "지하1층 ~ 지상6층",
+    "client": "문화주택㈜",
+    "contractor": "㈜대우건설",
+    "units": "12세대",
+    "pages": [
+      52
+    ],
+    "featured": false,
+    "image": "assets/images/projects/bangbae-daewoo-royal-villat-2-p52-1.jpg",
+    "gallery": [
+      "assets/images/projects/bangbae-daewoo-royal-villat-2-p52-1.jpg"
+    ]
+  },
+  {
+    "slug": "wirye-parking-building",
+    "title": "위례신도시 주차전용 빌딩",
+    "category": "주차·상업",
+    "location": "성남시 수정구 위례택지개발지구",
+    "use": "주차전용 빌딩",
+    "area": "1,878평",
+    "scale": "지하3층 / 지상4층",
+    "client": "",
+    "contractor": "",
+    "units": "",
+    "pages": [
+      53
+    ],
+    "featured": false,
+    "image": "assets/images/projects/wirye-parking-building-p53-1.jpg",
+    "gallery": [
+      "assets/images/projects/wirye-parking-building-p53-1.jpg"
+    ]
+  },
+  {
+    "slug": "wirye-neighborhood-housing-d2-1-1-4-26-3",
+    "title": "위례신도시 근생/주택 D2-1",
+    "category": "근생·주택",
+    "location": "성남시 위례택지개발지구",
+    "use": "근린생활시설 / 주택",
+    "area": "110평 / 130평",
+    "scale": "지상4층",
+    "client": "",
+    "contractor": "",
+    "units": "D2-1(1-4), D2-1(26-3)",
+    "pages": [
+      54
+    ],
+    "featured": false,
+    "image": "assets/images/projects/wirye-neighborhood-housing-d2-1-1-4-26-3-p54-1.jpg",
+    "gallery": [
+      "assets/images/projects/wirye-neighborhood-housing-d2-1-1-4-26-3-p54-1.jpg"
+    ]
+  },
+  {
+    "slug": "wirye-neighborhood-housing-d2-1-26-6-30-4",
+    "title": "위례신도시 근생/주택 D2-1 확장",
+    "category": "근생·주택",
+    "location": "성남시 위례택지개발지구",
+    "use": "근린생활시설 / 주택",
+    "area": "132평 / 120평",
+    "scale": "지하1층·지상4층 / 지상4층",
+    "client": "",
+    "contractor": "",
+    "units": "D2-1(26-6), D2-1(30-4)",
+    "pages": [
+      55
+    ],
+    "featured": false,
+    "image": "assets/images/projects/wirye-neighborhood-housing-d2-1-26-6-30-4-p55-1.jpg",
+    "gallery": [
+      "assets/images/projects/wirye-neighborhood-housing-d2-1-26-6-30-4-p55-1.jpg"
+    ]
+  },
+  {
+    "slug": "wirye-neighborhood-housing-d2-1-2-2-19-2",
+    "title": "위례신도시 근생/주택 D2-1 생활가로",
+    "category": "근생·주택",
+    "location": "성남시 위례택지개발지구",
+    "use": "근린생활시설 / 주택",
+    "area": "123평 / 189평",
+    "scale": "지상4층 / 지상4층",
+    "client": "",
+    "contractor": "",
+    "units": "D2-1(2-2), D2-1(19-2)",
+    "pages": [
+      56
+    ],
+    "featured": false,
+    "image": "assets/images/projects/wirye-neighborhood-housing-d2-1-2-2-19-2-p56-1.jpg",
+    "gallery": [
+      "assets/images/projects/wirye-neighborhood-housing-d2-1-2-2-19-2-p56-1.jpg"
+    ]
+  },
+  {
+    "slug": "wirye-neighborhood-facility-7",
+    "title": "위례신도시 근린생활시설",
+    "category": "근생·상업",
+    "location": "성남시 위례택지개발지구",
+    "use": "근린생활시설",
+    "area": "754평",
+    "scale": "지하2층 / 지상5층",
+    "client": "",
+    "contractor": "",
+    "units": "근생 7(2-2)",
+    "pages": [
+      57
+    ],
+    "featured": false,
+    "image": "assets/images/projects/wirye-neighborhood-facility-7-p57-1.jpg",
+    "gallery": [
+      "assets/images/projects/wirye-neighborhood-facility-7-p57-1.jpg"
+    ]
+  }
+]

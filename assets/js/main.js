@@ -14,6 +14,8 @@ if (navToggle && nav) {
     header && header.classList.toggle('nav-open', nav.classList.contains('open'));
   });
 }
+setActiveNavigation();
+window.addEventListener('hashchange', setActiveNavigation);
 const buttons = document.querySelectorAll('[data-filter]');
 const cards = document.querySelectorAll('[data-category]');
 buttons.forEach(btn => btn.addEventListener('click', () => {
